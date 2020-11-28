@@ -1,0 +1,25 @@
+{
+    "Records": [
+        {
+            "chromedriver" : "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler\\chromedriver.exe",
+            "keywords": "man",
+            "limit": 1000,
+            "print_urls": true,
+            "output_directory": "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler"
+        },
+        {
+            "chromedriver" : "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler\\chromedriver.exe",
+            "keywords": "woman",
+            "limit": 1000,
+            "print_urls": true,
+            "output_directory": "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler"
+        },
+        {
+            "chromedriver" : "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler\\chromedriver.exe",
+            "keywords": "gay",
+            "limit": 1000,
+            "print_urls": true,
+            "output_directory": "C:\\Users\\jnapolitano\\OneDrive - Napolitano\\projects\\python\\imageCrawler"
+        }
+    ]
+}
