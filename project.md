@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/Google-Image-Crawler
 generatedAt: '2025-11-24T21:35:00.478Z'
 source: github-auto
 summary: >-
-  Learn how to use Google-Image-Crawler, a Python tool for automated image
-  scraping from Google Image Search results.
+  Learn how to use Google-Image-Crawler, a Python tool for automated image scraping from Google
+  Image Search results.
 tags:
   - python
   - selenium
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - automated image download
   - google search images
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -121,3 +121,4 @@ Google-Image-Crawler/
 ---
 
 _Assumptions: The project requires manual setup of ChromeDriver and Python dependencies. The README assumes basic familiarity with Python and Selenium._
+
