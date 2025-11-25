@@ -1,20 +1,28 @@
 ---
 slug: github-google-image-crawler
 id: github-google-image-crawler
-title: Google-Image-Crawler
+title: Automated Google Image Scraper Using Python and Selenium
 repo: justin-napolitano/Google-Image-Crawler
 githubUrl: https://github.com/justin-napolitano/Google-Image-Crawler
 generatedAt: '2025-11-24T21:35:00.478Z'
 source: github-auto
 summary: >-
-  Google-Image-Crawler is a Python-based tool designed to automate the process
-  of downloading images from Google Image Search results. It leverages Selenium
-  and BeautifulSoup to scrape images based on user-defined keywords and save
-  them locally.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Python tool for automating image downloads from Google Image Search using
+  Selenium and BeautifulSoup.
+tags:
+  - python
+  - selenium
+  - beautifulsoup
+  - web scraping
+  - image processing
+seoPrimaryKeyword: google image crawler
+seoSecondaryKeywords:
+  - image scraping tool
+  - selenium image downloader
+  - python web scraper
+  - automated image download
+  - beautifulsoup image crawler
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
